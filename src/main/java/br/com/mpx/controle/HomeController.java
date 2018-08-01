@@ -1,4 +1,4 @@
-package br.com.springmvc.loja.controllers;
+package br.com.mpx.controle;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
