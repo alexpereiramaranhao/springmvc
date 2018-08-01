@@ -7,6 +7,6 @@
 <title>Estudo Spring MVC</title>
 </head>
 <body>
-	<h1>Spring MVC</h1>
+	<h1>Ok! Spring MVC funcionando!</h1>
 </body>
 </html>
