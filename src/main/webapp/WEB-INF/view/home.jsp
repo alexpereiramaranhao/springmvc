@@ -6,13 +6,19 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Livros de java, Android, Iphone, PHP, Ruby e muito mais -
 	Casa do código</title>
-	<link rel="stylesheet"
+<link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
 	integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
 	crossorigin="anonymous">
 </head>
-<body>
-	<h1>Casa do código</h1>
+<body style="margin: 4px">
+	<div class="card">
+		<div class="card-body">Bem vindo ao Spring MVC!</div>
+		<div class="list-group">
+			<a href="cadastroProtudos" class="list-group-item list-group-item-action">
+				Produtos</a>
+		</div>
+	</div>
 	<script
 		src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
 		integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
