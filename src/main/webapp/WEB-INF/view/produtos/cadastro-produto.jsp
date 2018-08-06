@@ -12,10 +12,10 @@
 <body>
 	<div style="width: 40%; margin: 0 auto;">
 		<h3>Cadastro de Produto</h3>
-		<form action="salvarProduto" method="post">
+		<form action="processarFormulario" method="post">
 			<div class="form-group">
 				<label for="titulo">Nome</label> <input type="text"
-					class="form-control" id="titulo" name="titulo"></input>
+					class="form-control" id="titulo" name="nome"></input>
 			</div>
 			<div class="form-group">
 				<label for="descricao">Descrição</label>
@@ -25,8 +25,8 @@
 
 			</div>
 			<div class="form-group">
-				<label for="quantidadePaginas">Quantidade</label> <input type="text"
-					class="form-control" id="paginas" name="paginas"></input>
+				<label for="quantidadePaginas">Quantidade</label> <input type="number"
+					class="form-control" id="quantidade" name="quantidade"></input>
 			</div>
 			<input type="submit" class="btn btn-success" value="Salvar" /> <input
 				type="submit" class="btn btn-default" value="Cancelar" />
